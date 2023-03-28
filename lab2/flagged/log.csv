@@ -1,0 +1,22 @@
+CSV Text,Number of Rows,Pytanie,Wynik,Wynik,Wynik,flag,username,timestamp
+,0,ile klas decyzyjnych,,C:\Users\brzoz\Desktop\Programy\AI2023\SI-2023-KonradBanul\lab2\flagged\Wynik\tmp9i5tqou1.json,,,,2023-03-21 23:15:26.686257
+,0,,,C:\Users\brzoz\Desktop\Programy\AI2023\SI-2023-KonradBanul\lab2\flagged\Tabela\tmpbjdydm2j.json,,,,2023-03-21 23:16:59.001450
+,0,,,C:\Users\brzoz\Desktop\Programy\AI2023\SI-2023-KonradBanul\lab2\flagged\Tabela\tmpghljw73f.json,,,,2023-03-21 23:17:01.383771
+Churn_Modelling.csv,3,,,,2023-03-28 21:48:48.304855
+,0,,,,2023-03-28 21:50:03.493729
+Churn_Modelling.csv,4,,,,2023-03-28 21:52:01.871370
+Churn_modelling.csv,12,,"Liczba atrybutow: 14, liczba obiektow: 168","    RowNumber  CustomerId   Surname  ...  IsActiveMember EstimatedSalary Exited
+0           1    15634602  Hargrave  ...               1       101348.88      1
+1           2    15647311      Hill  ...               1       112542.58      0
+2           3    15619304      Onio  ...               0       113931.57      1
+3           4    15701354      Boni  ...               0        93826.63      0
+4           5    15737888  Mitchell  ...               1        79084.10      0
+5           6    15574012       Chu  ...               0       149756.71      1
+6           7    15592531  Bartlett  ...               1        10062.80      0
+7           8    15656148    Obinna  ...               0       119346.88      1
+8           9    15792365        He  ...               1        74940.50      0
+9          10    15592389        H?  ...               1        71725.73      0
+10         11    15767821    Bearce  ...               0        80181.12      0
+11         12    15737173   Andrews  ...               0        76390.01      0
+
+[12 rows x 14 columns]",,,2023-03-28 22:33:10.701102
